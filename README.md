@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mikhail, Software Engineer with 6+ years of experience in IT, specializing in highly available, geo-distributed systems and cloud infrastructure. Experienced in building multi-tenant OpenStack-based cloud platforms, backend services, enterprise storage systems, ML platforms, and real-time power grid telemetry systems.
+I'm Mikhail, Backend Software Engineer specializing in Python and Go, with 6+ years across software engineering and technical product development. Experienced in building highly available, geo-distributed systems, including multi-tenant OpenStack-based cloud platforms, backend services, enterprise storage systems, ML platforms, and real-time power grid telemetry systems.
 
 ## Tech stack
 
